@@ -1,0 +1,67 @@
+body {
+  background-color: #FEF7DC;
+  text-align: center;
+  font-family: fantasy;
+}
+#span1{
+  color: #A19882;
+}
+#prog{
+  color:black;
+}
+#sizeplus{
+  position: relative;
+  margin-bottom: 60px;
+  font-family: 'Shadows Into Light', cursive;
+  font-size: 100px;
+  color: #343A40;
+  text-shadow: 4px 4px #A19882;
+}
+#inspiration{
+  color: #476072
+}
+.Education{
+  color: #A19882;
+  font-size: 30px;
+}
+.top-br{
+  position: absolute;
+  top:0;
+  left: 0;
+  right: 0;
+  margin-top: 0;
+  height: 150px;
+  width: 100%;
+  background-color: #A19882;
+}
+/* #f49831 */
+.name{
+  color: #EEEEEE;
+  font-family: papyrus;
+}
+.clg{
+  height: 100px;
+  left:15%;
+}
+.middle{
+  font-size:30px;
+  font-family:fantasy;
+  margin-top: 30px;
+  color: #EDEDED;
+}
+.middle-2{
+  display: inline;
+  color: black;
+  font-size: 30px;
+  font-family:fantasy;
+}
+.img1{
+  height: 25%;
+  width: 40%;
+}
+.img2{
+  width: 40%;
+}
+.connect{
+  font-size: 30px;
+}
